@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tDCc42tWhyTuWGju9wBL4ewtCdvvpdRFnrDIrKRqIvs=",
+  "Hash": "wSYVrwob/wDTDH+3kiXDBMuI9IR9wmD3O4vI+3LEaqk=",
   "Source": "Assignment1",
   "BasePath": "_content/Assignment1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Assignment1\\wwwroot",
       "Source": "Assignment1",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Assignment1.styles.css",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Assignment1.styles.css",
       "SourceId": "Assignment1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "Assignment1.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Assignment1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Assignment1.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment1.bundle.scp.css",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment1.bundle.scp.css",
       "SourceId": "Assignment1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "Assignment1.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\app.css",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\bootstrap.min.css",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\bootstrap.min.js",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "bootstrap.min.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\Chart.min.js",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\Chart.min.js",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "Chart.min.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\dashboard.css",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\dashboard.css",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "dashboard.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\favicon.png",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\feather.min.js",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\feather.min.js",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "feather.min.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\feather.min.js"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\jquery-3.2.1.slim.min.js",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\jquery-3.2.1.slim.min.js",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "jquery-3.2.1.slim.min.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\jquery-3.2.1.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\logo.png",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\logo.png",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "logo.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\popper.min.js",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\popper.min.js",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "popper.min.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\signin.css",
+      "Identity": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\signin.css",
       "SourceId": "Assignment1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaa\\Documents\\C#\\Assignment1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\wwwroot\\",
       "BasePath": "_content/Assignment1",
       "RelativePath": "signin.css",
       "AssetKind": "All",

@@ -29,14 +29,9 @@
     private string? Email { get; set; }
     private string? Password { get; set; }
 
-    private void Clear(){
-        Email = "";
-            Password = "";
-    }
-
     private void HandleLogin()
     {
-        if (Email == "admin@umat.edu.gh" && Password == "umat")
+        if (Email == "admin@umat.edu.gh" && Password == "admin")
         {
             NavigationManager.NavigateTo("/dashboard");
         }
